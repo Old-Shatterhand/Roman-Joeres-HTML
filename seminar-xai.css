@@ -387,9 +387,6 @@
 .seminar-xai-text53 {
   font-size: 20px;
 }
-.seminar-xai-text55 {
-  text-decoration: underline;
-}
 .seminar-xai-ul3 {
   list-style-type: decimal;
   list-style-image: none;
@@ -398,24 +395,27 @@
 .seminar-xai-li14 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text57 {
+.seminar-xai-text56 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-li15 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text60 {
+.seminar-xai-text59 {
   font-size: 20px;
 }
 .seminar-xai-li16 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text61 {
+.seminar-xai-text60 {
   font-size: 20px;
 }
 .seminar-xai-li17 {
   margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text61 {
+  font-size: 20px;
 }
 .seminar-xai-text62 {
   font-size: 20px;
@@ -433,9 +433,6 @@
   font-size: 20px;
 }
 .seminar-xai-text67 {
-  font-size: 20px;
-}
-.seminar-xai-text68 {
   font-size: 20px;
   font-style: italic;
 }
