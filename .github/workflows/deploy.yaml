@@ -41,7 +41,7 @@ jobs:
 
         with:
           # GitHub Action output files
-          source-directory: ./
+          source-directory: ./!(.github/)
           destination-github-username: Old-Shatterhand
           destination-repository-name: Old-Shatterhand.github.io
           user-email: joeres.roman@web.de
