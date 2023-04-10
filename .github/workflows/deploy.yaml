@@ -14,7 +14,7 @@ jobs:
 
       - name: Set new remote
         run: |
-          git remote add website git@github.com:Old-Shatterhand/Old-Shatterhand.github.io.git
+          git remote add website https://github.com/Old-Shatterhand/Old-Shatterhand.github.io.git
       - name: Push changes
         run: |
           git push website main:main
