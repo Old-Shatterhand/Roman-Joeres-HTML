@@ -13,10 +13,10 @@ jobs:
 
       - name: Switch from HTTPS to SSH
         run: |
-		git remote set-url origin git@github.com:Old-Shatterhand/Old-Shatterhand.github.io.git
+	    git remote set-url origin git@github.com:Old-Shatterhand/Old-Shatterhand.github.io.git
 	- name: Stage changes
 	  run: |
-		git add *.css *.html *.json README.md components public
+	    git add *.css *.html *.json README.md components public
 	- name: Commit changes
 	  run: |
 	    git config user.email "joeres.roman@web.de"
