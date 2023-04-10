@@ -2,7 +2,8 @@ name: Synchronize website
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      "main"
 
 jobs:
   build:
@@ -11,17 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Switch from HTTPS to SSH
+      - name: Set new remote
         run: |
           git remote add website git@github.com:Old-Shatterhand/Old-Shatterhand.github.io.git
-      - name: Stage changes
-        run: |
-          git add *.css *.html *.json README.md components public
-      - name: Commit changes
-        run: |
-          git config user.email "joeres.roman@web.de"
-          git config user.name "Old-Shatterhand"
-          git commit -m "Auto-update of website"
       - name: Push changes
         run: |
-          git push website main
+          git push website main:main
