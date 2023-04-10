@@ -13,7 +13,7 @@ jobs:
 
       - name: Switch from HTTPS to SSH
         run: |
-          git remote add origin git@github.com:Old-Shatterhand/Old-Shatterhand.github.io.git
+          git remote add website git@github.com:Old-Shatterhand/Old-Shatterhand.github.io.git
       - name: Stage changes
         run: |
           git add *.css *.html *.json README.md components public
@@ -23,6 +23,5 @@ jobs:
           git config user.name "Old-Shatterhand"
           git commit -m "Auto-update of website"
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push website main
