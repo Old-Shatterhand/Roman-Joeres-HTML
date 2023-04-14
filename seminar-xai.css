@@ -162,7 +162,16 @@
   height: var(--dl-size-size-xsmall);
 }
 .seminar-xai-text005 {
+  color: var(--dl-color-danger-500);
+  font-size: 24px;
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  font-weight: 900;
+}
+.seminar-xai-text009 {
   font-size: 45px;
+  align-self: center;
   margin-top: var(--dl-space-space-twounits);
 }
 .seminar-xai-banner {
@@ -179,27 +188,15 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text006 {
+.seminar-xai-text010 {
   text-align: center;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.seminar-xai-text007 {
+.seminar-xai-text011 {
   width: 100%;
   text-align: justify;
   margin-right: var(--dl-space-space-threeunits);
-}
-.seminar-xai-text008 {
-  font-size: 20px;
-}
-.seminar-xai-text009 {
-  font-size: 20px;
-}
-.seminar-xai-text010 {
-  font-size: 20px;
-}
-.seminar-xai-text011 {
-  font-size: 20px;
 }
 .seminar-xai-text012 {
   font-size: 20px;
@@ -213,11 +210,23 @@
 .seminar-xai-text015 {
   font-size: 20px;
 }
+.seminar-xai-text016 {
+  font-size: 20px;
+}
+.seminar-xai-text017 {
+  font-size: 20px;
+}
+.seminar-xai-text018 {
+  font-size: 20px;
+}
+.seminar-xai-text019 {
+  font-size: 20px;
+}
 .seminar-xai-link {
   font-size: 20px;
   font-style: italic;
 }
-.seminar-xai-text016 {
+.seminar-xai-text020 {
   font-size: 20px;
 }
 .seminar-xai-banner1 {
@@ -234,27 +243,15 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text020 {
+.seminar-xai-text024 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.seminar-xai-text021 {
+.seminar-xai-text025 {
   width: 100%;
   font-size: 20px;
   margin-right: var(--dl-space-space-threeunits);
-}
-.seminar-xai-text022 {
-  font-size: 20px;
-}
-.seminar-xai-text023 {
-  font-size: 20px;
-}
-.seminar-xai-text024 {
-  font-size: 20px;
-}
-.seminar-xai-text025 {
-  font-size: 20px;
 }
 .seminar-xai-text026 {
   font-size: 20px;
@@ -274,6 +271,18 @@
 .seminar-xai-text031 {
   font-size: 20px;
 }
+.seminar-xai-text032 {
+  font-size: 20px;
+}
+.seminar-xai-text033 {
+  font-size: 20px;
+}
+.seminar-xai-text034 {
+  font-size: 20px;
+}
+.seminar-xai-text035 {
+  font-size: 20px;
+}
 .seminar-xai-banner2 {
   width: 100%;
   display: flex;
@@ -288,7 +297,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text036 {
+.seminar-xai-text040 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
@@ -296,20 +305,20 @@
 .seminar-xai-ul {
   list-style-type: circle;
 }
-.seminar-xai-text037 {
-  color: var(--dl-color-gray-black);
-  font-size: 20px;
-}
-.seminar-xai-text038 {
-  font-size: 20px;
-}
 .seminar-xai-text041 {
+  color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-text042 {
   font-size: 20px;
 }
 .seminar-xai-text045 {
+  font-size: 20px;
+}
+.seminar-xai-text046 {
+  font-size: 20px;
+}
+.seminar-xai-text049 {
   font-size: 20px;
 }
 .seminar-xai-banner3 {
@@ -326,22 +335,12 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text048 {
+.seminar-xai-text052 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
 .seminar-xai-ul1 {
-  list-style-type: circle;
-}
-.seminar-xai-text049 {
-  color: var(--dl-color-gray-black);
-  font-size: 20px;
-}
-.seminar-xai-text050 {
-  font-size: 20px;
-}
-.seminar-xai-ul2 {
   list-style-type: circle;
 }
 .seminar-xai-text053 {
@@ -351,38 +350,48 @@
 .seminar-xai-text054 {
   font-size: 20px;
 }
+.seminar-xai-ul2 {
+  list-style-type: circle;
+}
 .seminar-xai-text057 {
+  color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-text058 {
   font-size: 20px;
 }
+.seminar-xai-text061 {
+  font-size: 20px;
+}
+.seminar-xai-text062 {
+  font-size: 20px;
+}
 .seminar-xai-ul3 {
   list-style-type: circle;
 }
-.seminar-xai-text059 {
-  color: var(--dl-color-gray-black);
-  font-size: 20px;
-}
-.seminar-xai-text060 {
-  font-size: 20px;
-}
 .seminar-xai-text063 {
+  color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-text064 {
   font-size: 20px;
 }
-.seminar-xai-text065 {
+.seminar-xai-text067 {
   font-size: 20px;
 }
 .seminar-xai-text068 {
+  font-size: 20px;
+}
+.seminar-xai-text069 {
+  font-size: 20px;
+}
+.seminar-xai-text072 {
   width: 100%;
   font-size: 20px;
   text-align: justify;
   margin-right: var(--dl-space-space-threeunits);
 }
-.seminar-xai-text069 {
+.seminar-xai-text073 {
   font-size: 23px;
   text-decoration: underline;
 }
@@ -390,7 +399,7 @@
   font-weight: 700;
   text-decoration: underline;
 }
-.seminar-xai-text073 {
+.seminar-xai-text077 {
   text-decoration: underline;
 }
 .seminar-xai-banner4 {
@@ -407,24 +416,24 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text077 {
+.seminar-xai-text081 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.seminar-xai-text078 {
+.seminar-xai-text082 {
   width: 100%;
   font-size: 20px;
   text-align: justify;
   margin-right: var(--dl-space-space-threeunits);
 }
-.seminar-xai-text081 {
+.seminar-xai-link02 {
   font-style: italic;
 }
-.seminar-xai-text083 {
+.seminar-xai-text086 {
   font-weight: 700;
 }
-.seminar-xai-text085 {
+.seminar-xai-text088 {
   text-decoration: underline;
 }
 .seminar-xai-banner5 {
@@ -441,7 +450,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text088 {
+.seminar-xai-text091 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
@@ -449,17 +458,8 @@
 .seminar-xai-ul4 {
   list-style-type: circle;
 }
-.seminar-xai-text089 {
-  color: var(--dl-color-gray-black);
-  font-size: 20px;
-}
-.seminar-xai-text090 {
-  font-size: 20px;
-}
-.seminar-xai-text091 {
-  font-size: 20px;
-}
 .seminar-xai-text092 {
+  color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-text093 {
@@ -472,6 +472,15 @@
   font-size: 20px;
 }
 .seminar-xai-text096 {
+  font-size: 20px;
+}
+.seminar-xai-text097 {
+  font-size: 20px;
+}
+.seminar-xai-text098 {
+  font-size: 20px;
+}
+.seminar-xai-text099 {
   font-weight: 700;
 }
 .seminar-xai-banner6 {
@@ -488,7 +497,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text100 {
+.seminar-xai-text103 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
@@ -496,14 +505,14 @@
 .seminar-xai-ul5 {
   list-style-type: circle;
 }
-.seminar-xai-text101 {
+.seminar-xai-text104 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
-.seminar-xai-text102 {
+.seminar-xai-text105 {
   font-size: 20px;
 }
-.seminar-xai-text103 {
+.seminar-xai-text106 {
   font-size: 20px;
 }
 .seminar-xai-banner7 {
@@ -520,96 +529,131 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text104 {
+.seminar-xai-text107 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.seminar-xai-text105 {
+.seminar-xai-text110 {
   font-size: 20px;
-  align-self: flex-start;
-  text-align: justify;
 }
-.seminar-xai-link02 {
-  font-style: italic;
+.seminar-xai-text112 {
+  text-decoration: underline;
 }
 .seminar-xai-ul6 {
-  list-style-type: decimal;
-  list-style-image: none;
-  list-style-position: outside;
-}
-.seminar-xai-li26 {
-  margin-bottom: var(--dl-space-space-halfunit);
+  list-style-type: circle;
 }
 .seminar-xai-text114 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-text115 {
-  text-decoration: underline;
+  font-size: 20px;
+}
+.seminar-xai-text116 {
+  font-size: 20px;
+}
+.seminar-xai-banner8 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.seminar-xai-container11 {
+  display: flex;
+  align-items: flex-start;
+  margin-right: var(--dl-space-space-sixunits);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.seminar-xai-text117 {
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.seminar-xai-text118 {
+  font-size: 20px;
+  align-self: flex-start;
+  text-align: justify;
 }
 .seminar-xai-link03 {
   font-style: italic;
 }
-.seminar-xai-link04 {
-  font-style: italic;
-}
-.seminar-xai-li27 {
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.seminar-xai-text120 {
-  font-size: 20px;
-}
-.seminar-xai-text121 {
-  text-decoration: underline;
-}
-.seminar-xai-link05 {
-  font-style: italic;
-}
-.seminar-xai-link06 {
-  font-style: italic;
-}
-.seminar-xai-li28 {
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.seminar-xai-text125 {
-  font-size: 20px;
-}
-.seminar-xai-text126 {
-  text-decoration: underline;
-}
-.seminar-xai-link07 {
-  font-style: italic;
-}
-.seminar-xai-text129 {
-  color: var(--dl-color-danger-500);
+.seminar-xai-ul7 {
+  list-style-type: decimal;
+  list-style-image: none;
+  list-style-position: outside;
 }
 .seminar-xai-li29 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text131 {
+.seminar-xai-text127 {
+  color: var(--dl-color-gray-black);
   font-size: 20px;
 }
-.seminar-xai-text132 {
+.seminar-xai-text128 {
+  text-decoration: underline;
+}
+.seminar-xai-link04 {
+  font-style: italic;
+}
+.seminar-xai-link05 {
+  font-style: italic;
+}
+.seminar-xai-li30 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text133 {
+  font-size: 20px;
+}
+.seminar-xai-text134 {
+  text-decoration: underline;
+}
+.seminar-xai-link06 {
+  font-style: italic;
+}
+.seminar-xai-link07 {
+  font-style: italic;
+}
+.seminar-xai-li31 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text138 {
+  font-size: 20px;
+}
+.seminar-xai-text139 {
   text-decoration: underline;
 }
 .seminar-xai-link08 {
   font-style: italic;
 }
-.seminar-xai-text135 {
+.seminar-xai-text142 {
   color: var(--dl-color-danger-500);
 }
-.seminar-xai-text137 {
+.seminar-xai-li32 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text144 {
   font-size: 20px;
 }
-.seminar-xai-text138 {
-  text-decoration: underline;
-}
-.seminar-xai-text139 {
+.seminar-xai-text145 {
   text-decoration: underline;
 }
 .seminar-xai-link09 {
   font-style: italic;
+}
+.seminar-xai-text148 {
+  color: var(--dl-color-danger-500);
+}
+.seminar-xai-text150 {
+  font-size: 20px;
+}
+.seminar-xai-text151 {
+  text-decoration: underline;
+}
+.seminar-xai-text152 {
+  text-decoration: underline;
 }
 .seminar-xai-link10 {
   font-style: italic;
@@ -620,35 +664,35 @@
 .seminar-xai-link12 {
   font-style: italic;
 }
-.seminar-xai-text143 {
-  text-decoration: underline;
-}
-.seminar-xai-text144 {
-  font-size: 20px;
-}
-.seminar-xai-text145 {
-  text-decoration: underline;
-}
 .seminar-xai-link13 {
   font-style: italic;
 }
-.seminar-xai-link14 {
-  font-style: italic;
+.seminar-xai-text156 {
+  text-decoration: underline;
 }
-.seminar-xai-text149 {
+.seminar-xai-text157 {
+  font-size: 20px;
+}
+.seminar-xai-text158 {
+  text-decoration: underline;
+}
+.seminar-xai-link14 {
   font-style: italic;
 }
 .seminar-xai-link15 {
   font-style: italic;
 }
-.seminar-xai-text152 {
-  font-size: 20px;
-}
-.seminar-xai-text153 {
-  text-decoration: underline;
+.seminar-xai-text162 {
+  font-style: italic;
 }
 .seminar-xai-link16 {
   font-style: italic;
+}
+.seminar-xai-text165 {
+  font-size: 20px;
+}
+.seminar-xai-text166 {
+  text-decoration: underline;
 }
 .seminar-xai-link17 {
   font-style: italic;
@@ -656,14 +700,14 @@
 .seminar-xai-link18 {
   font-style: italic;
 }
-.seminar-xai-text158 {
-  font-size: 20px;
-}
-.seminar-xai-text159 {
-  text-decoration: underline;
-}
 .seminar-xai-link19 {
   font-style: italic;
+}
+.seminar-xai-text171 {
+  font-size: 20px;
+}
+.seminar-xai-text172 {
+  text-decoration: underline;
 }
 .seminar-xai-link20 {
   font-style: italic;
@@ -671,17 +715,17 @@
 .seminar-xai-link21 {
   font-style: italic;
 }
-.seminar-xai-text164 {
-  font-size: 20px;
-}
-.seminar-xai-text165 {
-  text-decoration: underline;
-}
-.seminar-xai-text166 {
-  text-decoration: underline;
-}
 .seminar-xai-link22 {
   font-style: italic;
+}
+.seminar-xai-text177 {
+  font-size: 20px;
+}
+.seminar-xai-text178 {
+  text-decoration: underline;
+}
+.seminar-xai-text179 {
+  text-decoration: underline;
 }
 .seminar-xai-link23 {
   font-style: italic;
@@ -692,42 +736,45 @@
 .seminar-xai-link25 {
   font-style: italic;
 }
-.seminar-xai-text170 {
+.seminar-xai-link26 {
+  font-style: italic;
+}
+.seminar-xai-text183 {
   text-decoration: underline;
 }
-.seminar-xai-text171 {
+.seminar-xai-text184 {
   font-size: 20px;
 }
-.seminar-xai-ul7 {
+.seminar-xai-ul8 {
   list-style-type: disc;
   list-style-image: none;
   list-style-position: outside;
 }
-.seminar-xai-li35 {
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.seminar-xai-text172 {
-  color: var(--dl-color-gray-black);
-  font-size: 20px;
-}
-.seminar-xai-li36 {
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.seminar-xai-text174 {
-  color: var(--dl-color-gray-black);
-  font-size: 20px;
-}
-.seminar-xai-li37 {
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.seminar-xai-text176 {
-  color: var(--dl-color-gray-black);
-  font-size: 20px;
-}
 .seminar-xai-li38 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text178 {
+.seminar-xai-text185 {
+  color: var(--dl-color-gray-black);
+  font-size: 20px;
+}
+.seminar-xai-li39 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text187 {
+  color: var(--dl-color-gray-black);
+  font-size: 20px;
+}
+.seminar-xai-li40 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text189 {
+  color: var(--dl-color-gray-black);
+  font-size: 20px;
+}
+.seminar-xai-li41 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text191 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
@@ -740,7 +787,7 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-threeunits);
   }
-  .seminar-xai-text007 {
+  .seminar-xai-text011 {
     text-align: center;
     margin-left: var(--dl-space-space-threeunits);
   }
@@ -752,7 +799,7 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-threeunits);
   }
-  .seminar-xai-text021 {
+  .seminar-xai-text025 {
     text-align: center;
     margin-left: var(--dl-space-space-threeunits);
   }
@@ -772,7 +819,7 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-threeunits);
   }
-  .seminar-xai-text068 {
+  .seminar-xai-text072 {
     text-align: center;
     margin-left: var(--dl-space-space-threeunits);
   }
@@ -784,7 +831,7 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-threeunits);
   }
-  .seminar-xai-text078 {
+  .seminar-xai-text082 {
     text-align: center;
     margin-left: var(--dl-space-space-threeunits);
   }
@@ -812,6 +859,14 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-threeunits);
   }
+  .seminar-xai-banner8 {
+    flex-direction: column;
+  }
+  .seminar-xai-container11 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-threeunits);
+  }
 }
 @media(max-width: 767px) {
   .seminar-xai-header {
@@ -830,7 +885,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .seminar-xai-text007 {
+  .seminar-xai-text011 {
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
@@ -838,7 +893,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .seminar-xai-text021 {
+  .seminar-xai-text025 {
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
@@ -850,7 +905,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .seminar-xai-text068 {
+  .seminar-xai-text072 {
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
@@ -858,7 +913,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .seminar-xai-text078 {
+  .seminar-xai-text082 {
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
@@ -871,6 +926,10 @@
     padding-right: var(--dl-space-space-twounits);
   }
   .seminar-xai-banner7 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .seminar-xai-banner8 {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
@@ -925,6 +984,12 @@
     padding-bottom: var(--dl-space-space-twounits);
   }
   .seminar-xai-banner7 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .seminar-xai-banner8 {
     padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
