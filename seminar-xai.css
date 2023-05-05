@@ -589,47 +589,47 @@
 .seminar-xai-link05 {
   font-style: italic;
 }
-.seminar-xai-li30 {
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.seminar-xai-text135 {
-  font-size: 20px;
-}
-.seminar-xai-text136 {
-  text-decoration: underline;
-}
 .seminar-xai-link06 {
   font-style: italic;
 }
+.seminar-xai-li30 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.seminar-xai-text134 {
+  font-size: 20px;
+}
+.seminar-xai-text135 {
+  text-decoration: underline;
+}
 .seminar-xai-link07 {
+  font-style: italic;
+}
+.seminar-xai-link08 {
   font-style: italic;
 }
 .seminar-xai-li31 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
+.seminar-xai-text139 {
+  font-size: 20px;
+}
 .seminar-xai-text140 {
-  font-size: 20px;
-}
-.seminar-xai-text141 {
-  text-decoration: underline;
-}
-.seminar-xai-link08 {
-  font-style: italic;
-}
-.seminar-xai-text144 {
-  color: var(--dl-color-danger-500);
-}
-.seminar-xai-text146 {
-  font-size: 20px;
-}
-.seminar-xai-text147 {
-  text-decoration: underline;
-}
-.seminar-xai-text148 {
   text-decoration: underline;
 }
 .seminar-xai-link09 {
   font-style: italic;
+}
+.seminar-xai-text143 {
+  color: var(--dl-color-danger-500);
+}
+.seminar-xai-text145 {
+  font-size: 20px;
+}
+.seminar-xai-text146 {
+  text-decoration: underline;
+}
+.seminar-xai-text147 {
+  text-decoration: underline;
 }
 .seminar-xai-link10 {
   font-style: italic;
@@ -640,35 +640,35 @@
 .seminar-xai-link12 {
   font-style: italic;
 }
-.seminar-xai-text152 {
-  text-decoration: underline;
-}
-.seminar-xai-text153 {
-  font-size: 20px;
-}
-.seminar-xai-text154 {
-  text-decoration: underline;
-}
 .seminar-xai-link13 {
   font-style: italic;
 }
-.seminar-xai-link14 {
-  font-style: italic;
+.seminar-xai-text151 {
+  text-decoration: underline;
 }
-.seminar-xai-text158 {
+.seminar-xai-text152 {
+  font-size: 20px;
+}
+.seminar-xai-text153 {
+  text-decoration: underline;
+}
+.seminar-xai-link14 {
   font-style: italic;
 }
 .seminar-xai-link15 {
   font-style: italic;
 }
-.seminar-xai-text161 {
-  font-size: 20px;
-}
-.seminar-xai-text162 {
-  text-decoration: underline;
+.seminar-xai-text157 {
+  font-style: italic;
 }
 .seminar-xai-link16 {
   font-style: italic;
+}
+.seminar-xai-text160 {
+  font-size: 20px;
+}
+.seminar-xai-text161 {
+  text-decoration: underline;
 }
 .seminar-xai-link17 {
   font-style: italic;
@@ -676,14 +676,14 @@
 .seminar-xai-link18 {
   font-style: italic;
 }
-.seminar-xai-text167 {
-  font-size: 20px;
-}
-.seminar-xai-text168 {
-  text-decoration: underline;
-}
 .seminar-xai-link19 {
   font-style: italic;
+}
+.seminar-xai-text166 {
+  font-size: 20px;
+}
+.seminar-xai-text167 {
+  text-decoration: underline;
 }
 .seminar-xai-link20 {
   font-style: italic;
@@ -691,17 +691,17 @@
 .seminar-xai-link21 {
   font-style: italic;
 }
-.seminar-xai-text173 {
+.seminar-xai-link22 {
+  font-style: italic;
+}
+.seminar-xai-text172 {
   font-size: 20px;
+}
+.seminar-xai-text173 {
+  text-decoration: underline;
 }
 .seminar-xai-text174 {
   text-decoration: underline;
-}
-.seminar-xai-text175 {
-  text-decoration: underline;
-}
-.seminar-xai-link22 {
-  font-style: italic;
 }
 .seminar-xai-link23 {
   font-style: italic;
@@ -712,10 +712,13 @@
 .seminar-xai-link25 {
   font-style: italic;
 }
-.seminar-xai-text179 {
+.seminar-xai-link26 {
+  font-style: italic;
+}
+.seminar-xai-text178 {
   text-decoration: underline;
 }
-.seminar-xai-text180 {
+.seminar-xai-text179 {
   font-size: 20px;
 }
 .seminar-xai-ul8 {
@@ -726,28 +729,28 @@
 .seminar-xai-li37 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text181 {
+.seminar-xai-text180 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-li38 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text183 {
+.seminar-xai-text182 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-li39 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text185 {
+.seminar-xai-text184 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-li40 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text187 {
+.seminar-xai-text186 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
