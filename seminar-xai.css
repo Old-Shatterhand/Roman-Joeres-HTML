@@ -448,14 +448,8 @@
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
-.seminar-xai-text089 {
-  font-size: 20px;
-}
 .seminar-xai-text090 {
-  font-size: 20px;
-}
-.seminar-xai-text091 {
-  font-size: 20px;
+  font-weight: 700;
 }
 .seminar-xai-text092 {
   font-size: 20px;
@@ -467,6 +461,15 @@
   font-size: 20px;
 }
 .seminar-xai-text095 {
+  font-size: 20px;
+}
+.seminar-xai-text096 {
+  font-size: 20px;
+}
+.seminar-xai-text097 {
+  font-size: 20px;
+}
+.seminar-xai-text098 {
   font-weight: 700;
 }
 .seminar-xai-banner6 {
@@ -482,7 +485,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text099 {
+.seminar-xai-text102 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
@@ -490,15 +493,22 @@
 .seminar-xai-ul5 {
   list-style-type: circle;
 }
-.seminar-xai-text100 {
+.seminar-xai-text103 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
-}
-.seminar-xai-text101 {
-  font-size: 20px;
+  text-decoration: line-through;
 }
 .seminar-xai-text104 {
   font-size: 20px;
+}
+.seminar-xai-text105 {
+  text-decoration: line-through;
+}
+.seminar-xai-text107 {
+  font-size: 20px;
+}
+.seminar-xai-text109 {
+  font-weight: 700;
 }
 .seminar-xai-banner7 {
   width: 100%;
@@ -513,35 +523,50 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text105 {
+.seminar-xai-text111 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.seminar-xai-text108 {
+.seminar-xai-text114 {
   font-size: 20px;
 }
-.seminar-xai-text110 {
+.seminar-xai-text116 {
+  text-decoration: underline;
+}
+.seminar-xai-text118 {
+  text-decoration: underline;
+}
+.seminar-xai-text119 {
   text-decoration: underline;
 }
 .seminar-xai-ul6 {
   list-style-type: circle;
 }
-.seminar-xai-text112 {
+.seminar-xai-text120 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
-.seminar-xai-text113 {
+.seminar-xai-text121 {
   font-size: 20px;
 }
-.seminar-xai-text114 {
+.seminar-xai-text122 {
   font-size: 20px;
 }
-.seminar-xai-text115 {
+.seminar-xai-text123 {
   font-weight: 700;
 }
-.seminar-xai-text117 {
+.seminar-xai-text125 {
   font-weight: 700;
+}
+.seminar-xai-text126 {
+  font-size: 20px;
+}
+.seminar-xai-text128 {
+  text-decoration: underline;
+}
+.seminar-xai-text129 {
+  text-decoration: underline;
 }
 .seminar-xai-banner8 {
   width: 100%;
@@ -556,12 +581,12 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.seminar-xai-text118 {
+.seminar-xai-text130 {
   text-align: left;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.seminar-xai-text119 {
+.seminar-xai-text131 {
   font-size: 20px;
   align-self: flex-start;
   text-align: justify;
@@ -577,10 +602,10 @@
 .seminar-xai-li29 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text128 {
+.seminar-xai-text140 {
   font-size: 20px;
 }
-.seminar-xai-text129 {
+.seminar-xai-text141 {
   text-decoration: underline;
 }
 .seminar-xai-link04 {
@@ -595,10 +620,10 @@
 .seminar-xai-li30 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text134 {
+.seminar-xai-text147 {
   font-size: 20px;
 }
-.seminar-xai-text135 {
+.seminar-xai-text148 {
   text-decoration: underline;
 }
 .seminar-xai-link07 {
@@ -610,25 +635,25 @@
 .seminar-xai-li31 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text139 {
+.seminar-xai-text153 {
   font-size: 20px;
 }
-.seminar-xai-text140 {
+.seminar-xai-text154 {
   text-decoration: underline;
 }
 .seminar-xai-link09 {
   font-style: italic;
 }
-.seminar-xai-text143 {
+.seminar-xai-text157 {
   color: var(--dl-color-danger-500);
 }
-.seminar-xai-text145 {
+.seminar-xai-text159 {
   font-size: 20px;
 }
-.seminar-xai-text146 {
+.seminar-xai-text160 {
   text-decoration: underline;
 }
-.seminar-xai-text147 {
+.seminar-xai-text162 {
   text-decoration: underline;
 }
 .seminar-xai-link10 {
@@ -643,13 +668,13 @@
 .seminar-xai-link13 {
   font-style: italic;
 }
-.seminar-xai-text151 {
+.seminar-xai-text166 {
   text-decoration: underline;
 }
-.seminar-xai-text152 {
+.seminar-xai-text167 {
   font-size: 20px;
 }
-.seminar-xai-text153 {
+.seminar-xai-text168 {
   text-decoration: underline;
 }
 .seminar-xai-link14 {
@@ -658,16 +683,16 @@
 .seminar-xai-link15 {
   font-style: italic;
 }
-.seminar-xai-text157 {
+.seminar-xai-text173 {
   font-style: italic;
 }
 .seminar-xai-link16 {
   font-style: italic;
 }
-.seminar-xai-text160 {
+.seminar-xai-text176 {
   font-size: 20px;
 }
-.seminar-xai-text161 {
+.seminar-xai-text177 {
   text-decoration: underline;
 }
 .seminar-xai-link17 {
@@ -679,10 +704,10 @@
 .seminar-xai-link19 {
   font-style: italic;
 }
-.seminar-xai-text166 {
+.seminar-xai-text183 {
   font-size: 20px;
 }
-.seminar-xai-text167 {
+.seminar-xai-text184 {
   text-decoration: underline;
 }
 .seminar-xai-link20 {
@@ -694,13 +719,13 @@
 .seminar-xai-link22 {
   font-style: italic;
 }
-.seminar-xai-text172 {
+.seminar-xai-text190 {
   font-size: 20px;
 }
-.seminar-xai-text173 {
+.seminar-xai-text191 {
   text-decoration: underline;
 }
-.seminar-xai-text174 {
+.seminar-xai-text193 {
   text-decoration: underline;
 }
 .seminar-xai-link23 {
@@ -715,10 +740,10 @@
 .seminar-xai-link26 {
   font-style: italic;
 }
-.seminar-xai-text178 {
+.seminar-xai-text197 {
   text-decoration: underline;
 }
-.seminar-xai-text179 {
+.seminar-xai-text198 {
   font-size: 20px;
 }
 .seminar-xai-ul8 {
@@ -729,28 +754,28 @@
 .seminar-xai-li37 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text180 {
+.seminar-xai-text199 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-li38 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text182 {
+.seminar-xai-text201 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-li39 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text184 {
+.seminar-xai-text203 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
 .seminar-xai-li40 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.seminar-xai-text186 {
+.seminar-xai-text205 {
   color: var(--dl-color-gray-black);
   font-size: 20px;
 }
